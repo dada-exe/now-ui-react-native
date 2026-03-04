@@ -50,6 +50,7 @@ function CustomDrawerContent({ drawerPosition, navigation, profile, focused, sta
                 fontFamily: 'montserrat-regular',
                 fontWeight: '300',
                 fontSize: 12,
+                text-align:center
               }}
             >
               DOCUMENTATION
