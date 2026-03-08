@@ -50,10 +50,10 @@ function CustomDrawerContent({ drawerPosition, navigation, profile, focused, sta
                 fontFamily: 'montserrat-regular',
                 fontWeight: '300',
                 fontSize: 12,
-                text-align:center
+                textAlign: 'center',
               }}
             >
-              DOCUMENTATION
+              DOCUMENTATION @
             </Text>
           </Block>
           <DrawerCustomItem title="GETTING STARTED" navigation={navigation} />
